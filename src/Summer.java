@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum Summer {
+public enum Summer {
+    JUNE,
+    JULY,
+    AUGUST;
 }
